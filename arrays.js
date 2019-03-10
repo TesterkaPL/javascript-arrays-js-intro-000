@@ -23,7 +23,7 @@ function accessElementInArray(array, index){
 }
 
 function destructivelyAddElementToBeginningOfArray(array){
-  
+
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array){
