@@ -19,13 +19,11 @@ function destructivelyAddElementToEndOfArray(array, element){
 }
 
 function accessElementInArray(array, index){
-  return array[2]
+  
 }
 
 function destructivelyAddElementToBeginningOfArray(array){
-  var array = ['1', '2']
-  array.slice(1)
-  return array
+  
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array){
